@@ -1,7 +1,5 @@
 # smart-contract-management
 
-Certainly! Here's an engaging README for your AuctionHouse smart contract, using emojis:
-
 ---
 
 # AuctionHouse 🏛️
