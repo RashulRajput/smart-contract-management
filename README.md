@@ -1,5 +1,4 @@
 # smart-contract-management
-
 ---
 
 # AuctionHouse 🏛️
